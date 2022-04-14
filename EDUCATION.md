@@ -1,3 +1,0 @@
-# Education
-
-- No education yet :/
