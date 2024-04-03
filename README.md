@@ -4,4 +4,4 @@
 <code>💬 Telegram: [@philippius](https://telegram.me/philippius)</code>
 <code>📫 [filip@zelinskyi.de](mailto:filip@zelinskyi.de)</code>
 <br>
-<code>🔑 PGP: [0x709D9588C88137575CFB2646BF8DC6494468D813](https://keys.openpgp.org/vks/v1/by-fingerprint/709D9588C88137575CFB2646BF8DC6494468D813)</code>
+<code>🔑 PGP: [0xBF8DC6494468D813](https://keys.openpgp.org/vks/v1/by-fingerprint/709D9588C88137575CFB2646BF8DC6494468D813)</code>
